@@ -1,0 +1,18 @@
+
+.poke-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border: 2px solid black;
+    padding: .5rem;
+}
+#pokeImg{
+    height: 20vw;
+    width:  20vw;
+}
+
+/* #pokeImg:hover {
+
+} */
