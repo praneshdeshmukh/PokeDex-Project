@@ -4,3 +4,16 @@ body {
   overflow-x: hidden;
   /* background-color: rebeccapurple; */
 }
+.outer-pokedex-wrapper {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  flex-direction: column;
+}
+#pokedex-heading {
+  margin: 0 auto;
+  letter-spacing: 5px;
+}
+a:visited {
+  color: black;
+}
